@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "heading": "Spider-Man: No Way Home",
+    "image": "images/image.png",
+    "createdDate": "2024-04-08T14:35:00Z",
+    "type": "LATEST"
+  },
+  {
+    "id": "2",
+    "heading": "Oppenheimer Review",
+    "image": "images/image.png",
+    "createdDate": "2024-04-05T11:20:00Z",
+    "type": "LATEST",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "heading": "test the third: The Third Empire",
+    "image": "images/image.png",
+    "createdDate": "2024-04-06T14:35:00Z",
+    "type": "TRENDING"
+  },
+  {
+    "id": "4",
+    "heading": "The fourth wall breaker",
+    "image": "images/image.png",
+    "createdDate": "2024-04-03T14:35:00Z",
+    "type": "TRENDING"
+  },
+  {
+    "id": "5",
+    "heading": "Fantastic five",
+    "image": "images/image.png",
+    "createdDate": "2024-04-02T14:35:00Z",
+    "type": "EXCLUSIVE"
+  },
+  {
+    "id": "6",
+    "heading": "Godzilla x Kong: The New Empire",
+    "image": "images/image.png",
+    "createdDate": "2024-04-08T14:35:00Z",
+    "type": "LATEST"
+  },
+  {
+    "id": "7",
+    "heading": "Oppenheimer Review",
+    "image": "images/image.png",
+    "createdDate": "2024-04-05T11:20:00Z",
+    "type": "LATEST",
+    "featured": true
+  },
+  {
+    "id": "8",
+    "heading": "test the third: The Third Empire",
+    "image": "images/image.png",
+    "createdDate": "2024-04-06T14:35:00Z",
+    "type": "TRENDING"
+  },
+  {
+    "id": "9",
+    "heading": "The fourth wall breaker",
+    "image": "images/image.png",
+    "createdDate": "2024-04-03T14:35:00Z",
+    "type": "TRENDING"
+  },
+  {
+    "id": "10",
+    "heading": "Fantastic five",
+    "image": "images/image.png",
+    "createdDate": "2024-04-02T14:35:00Z",
+    "type": "EXCLUSIVE"
+  }
+]
